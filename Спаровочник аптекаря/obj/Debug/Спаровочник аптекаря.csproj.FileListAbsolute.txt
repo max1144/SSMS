@@ -1,0 +1,16 @@
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\bin\Debug\Спаровочник аптекаря.exe.config
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\bin\Debug\Спаровочник аптекаря.exe
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\bin\Debug\Спаровочник аптекаря.pdb
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник аптекаря.csproj.AssemblyReference.cache
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник аптекаря.csproj.SuggestedBindingRedirects.cache
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник_аптекаря.Form1.resources
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник_аптекаря.Form2.resources
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник_аптекаря.Properties.Resources.resources
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник аптекаря.csproj.GenerateResource.cache
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник аптекаря.csproj.CoreCompileInputs.cache
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник аптекаря.exe
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник аптекаря.pdb
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник_аптекаря.Form3.resources
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник_аптекаря.Form4.resources
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник_аптекаря.Form5.resources
+C:\Users\0_311_2\Desktop\Лукьяненко\Новая папка\Спаровочник аптекаря\obj\Debug\Спаровочник_аптекаря.Form6.resources
